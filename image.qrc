@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/hardware">
+        <file>Hardware.jpg</file>
+    </qresource>
+</RCC>
